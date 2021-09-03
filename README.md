@@ -5,7 +5,7 @@
 ❄️ Working as a cloud support Engineer.
 
 ❄️ Cloud platform: 
-    - AWS Cloud
+- AWS Cloud
           -Ec2
           - VPC
           -EBS
@@ -21,24 +21,14 @@
           -IAM
         
 ❄️ Operating Systems:
-    - RedHat Linux Release
-    - Ubuntu
-    - CentOS
-
+        - RedHat Linux Release
+        - Ubuntu
+        - CentOS
 ❄️ Infrastructure As a Code:
-    - Terraform
-
+        - Terraform
 ❄️ Source Code Management/Version Control:
         - Git
-
 ❄️ Monitoring Tools:
         - Zabbix
         - AWS CloudWatch
-
-
-
-
-
-
-
 
