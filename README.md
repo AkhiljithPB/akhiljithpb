@@ -6,6 +6,7 @@
 
 ❄️ Cloud platform: 
 - AWS Cloud
+
           -Ec2
           - VPC
           -EBS
@@ -21,14 +22,22 @@
           -IAM
         
 ❄️ Operating Systems:
+
         - RedHat Linux Release
-        - Ubuntu
         - CentOS
+        - Virtuozzo
+        - Ubuntu
+        
 ❄️ Infrastructure As a Code:
+
         - Terraform
+        
 ❄️ Source Code Management/Version Control:
+
         - Git
+        
 ❄️ Monitoring Tools:
+
         - Zabbix
         - AWS CloudWatch
 
