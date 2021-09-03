@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hi Geeks, 👋
 
-<!--
-**AkhiljithPB/akhiljithpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Akhiljith PB
 
-Here are some ideas to get you started:
+❄️ Working as a cloud support Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❄️ Cloud platform: 
+    - AWS Cloud
+          -Ec2
+          - VPC
+          -EBS
+          -EFS
+          -RDS
+          -S3
+          -Snap shot
+          -Load balancer
+          -Autoscaling
+          -Route53
+          -AWS certificate manger (ACM)
+          -AMI
+          -IAM
+        
+❄️ Operating Systems:
+    - RedHat Linux Release
+    - Ubuntu
+    - CentOS
+
+❄️ Infrastructure As a Code:
+    - Terraform
+
+❄️ Source Code Management/Version Control:
+        - Git
+
+❄️ Monitoring Tools:
+        - Zabbix
+        - AWS CloudWatch
+
+
+
+
+
+
+
+
