@@ -2,7 +2,7 @@
 
 - I'm Akhiljith PB
 
-❄️ Working as a cloud support Engineer.
+❄️ Working as a DevOps Engineer.
 
 ❄️ Cloud platform: 
 - AWS Cloud
